@@ -1,0 +1,84 @@
+@import url(https://fonts.googleapis.com/css?family=Nosifer);
+
+.ocean-ui-comments-commentbase-like-count {
+    background-image: url(https://hiveonlineblogtest1.cybozu.com/k/api/record/download.do/-/cornaicon.png?field=2027&id=4&app=2&record=1&revision=2&hash=a150977ead54b0916e5e659df0374b71df649785&detectType=true&row=1&.png);
+    vertical-align: middle;
+}
+
+.ocean-ui-comments-commentbase-like-count-active {
+    background-image: url(https://hiveonlineblogtest1.cybozu.com/k/api/record/download.do/-/cornaicon_blue.png?field=2027&id=5&app=2&record=1&revision=2&hash=1ee03628a1eb79dbc6306da2d256021a8a135ad8&detectType=true&row=1&.png);
+}
+
+body{
+	background-image: url(https://www.pakutaso.com/shared/img/thumb/20140323-P1020852_TP_V.jpg);
+	color: white;
+	font-family: "Nosifer", cursive !important;
+}
+
+
+.gaia-argoui-widget{
+	background-color: transparent;
+	border-style: solid; 
+    border-color: white;
+}
+
+.ocean-ntf-ntfitem-content {
+    color: white;
+}
+
+.ocean-ntf-ntfitem-space {
+    color: white;
+    font-size: 20px;
+}
+
+.ocean-ntf-ntfitem-info {
+    color: #E06363;
+}
+
+.gaia-argoui-widget-header {
+    background-image: url(https://pixabay.com/static/uploads/photo/2015/05/04/08/43/skull-752028_960_720.jpg) !important;
+    background-repeat: repeat !important;
+}
+
+.gaia-argoui-spacescrollinglist-item {
+    font-color: #BD3A3A;
+}
+
+.gaia-header-header-logo {
+    height: 200px;
+    background-image: url(https://pixabay.com/static/uploads/photo/2015/03/20/21/34/skull-682973_960_720.jpg);
+    line-height: normal;
+}
+
+.gaia-argoui-ntf-twopane-listmenu {
+	background-color: transparent;
+}
+
+.ocean-ui-comments-commentcomponent {
+    background-color: #fff;
+    font-size: 14px;
+}
+
+.ocean-ui-comments-commentcomponent {
+    background-color: transparent;
+}
+
+.gaia-argoui-spacescrollinglist-name, .gaia-argoui-appscrollinglist-item{
+	color: #C90808;
+}
+
+span.ocean-ui-comments-commentbase-text {
+    color: green;
+}
+
+.ocean-ui-comments-commentcomponent {
+    background-image: url("https://pixabay.com/static/uploads/photo/2015/03/20/21/34/skull-682973_960_720.jpg");
+}
+
+.gaia-argoui-space-spacecontent.three-pane .gaia-argoui-space-spacecontent-left {
+    background-image: url(https://pixabay.com/static/uploads/photo/2015/05/04/08/43/skull-752028_960_720.jpg);
+}
+
+.ocean-space-thread-body {
+     background-color: #000;
+}
