@@ -1,16 +1,16 @@
 @import url(https://fonts.googleapis.com/css?family=Nosifer);
 
 .ocean-ui-comments-commentbase-like-count {
-    background-image: url(LIKE_IMAGE_URL);
+    background-image: url(https://cloud.githubusercontent.com/assets/10701638/13049108/ff568c2a-d42d-11e5-92dc-5e5dfa39180d.png);
     vertical-align: middle;
 }
 
 .ocean-ui-comments-commentbase-like-count-active {
-    background-image: url(LIKE_IMAGE_URL);
+    background-image: url(https://cloud.githubusercontent.com/assets/10701638/13049108/ff568c2a-d42d-11e5-92dc-5e5dfa39180d.png);
 }
 
 body{
-	background-image: url(BACKGROUND_IMAGE_URL);
+	background-image: url(https://cloud.githubusercontent.com/assets/10701638/13049100/f1c70aa8-d42d-11e5-8291-531bf5121d75.jpg);
 	color: white;
 	font-family: "Nosifer", cursive !important;
 }
@@ -36,7 +36,7 @@ body{
 }
 
 .gaia-argoui-widget-header {
-    background-image: url(BACKGROUND_IMAGE_URL) !important;
+    background-image: url(https://cloud.githubusercontent.com/assets/10701638/13049103/f73f3ec4-d42d-11e5-83bb-a43d0c5e2b81.jpg) !important;
     background-repeat: repeat !important;
 }
 
@@ -46,7 +46,7 @@ body{
 
 .gaia-header-header-logo {
     height: 200px;
-    background-image: url(BACKGROUND_IMAGE_URL);
+    background-image: url(https://cloud.githubusercontent.com/assets/10701638/13049100/f1c70aa8-d42d-11e5-8291-531bf5121d75.jpg);
     line-height: normal;
 }
 
@@ -72,11 +72,11 @@ span.ocean-ui-comments-commentbase-text {
 }
 
 .ocean-ui-comments-commentcomponent {
-    background-image: url(BACKGROUND_IMAGE_URL);
+    background-image: url(https://cloud.githubusercontent.com/assets/10701638/13049100/f1c70aa8-d42d-11e5-8291-531bf5121d75.jpg);
 }
 
 .gaia-argoui-space-spacecontent.three-pane .gaia-argoui-space-spacecontent-left {
-    background-image: url(BACKGROUND_IMAGE_URL);
+    background-image: url(https://cloud.githubusercontent.com/assets/10701638/13049103/f73f3ec4-d42d-11e5-83bb-a43d0c5e2b81.jpg);
 }
 
 .ocean-space-thread-body {
